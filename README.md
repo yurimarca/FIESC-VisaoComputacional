@@ -10,3 +10,5 @@ Foi criado um environment para instalar as bibliotecas necessárias para a resol
 ```sh
 conda create --name fiesc-prova python=3.8
 ```
+
+Critérios de avaliação: Comunicação e Interação, Planejamento e Organização, Criatividade e Inovação, Conhecimento Técnico, Análise e Síntese.
